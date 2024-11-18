@@ -2,6 +2,8 @@
 
 ## Sistema de Gestión de Encuestas
 
+ ![Fondo](https://www.cimec.es/wp-content/uploads/2023/11/Tipo-de-encuestas-retocada.jpg)
+
 ## Descripción
 
 Este sistema permite la creación, gestión y análisis de encuestas para optimizar procesos de recopilación de datos en estudios. Facilita la automatización de tareas como la carga de participantes, segmentación, envío de invitaciones y generación de informes. Está diseñado para ser escalable y adaptable a las necesidades de diferentes usuarios. El sistema utiliza una interfaz gráfica desarrollada con **Tkinter** para ofrecer una experiencia de usuario intuitiva.
@@ -58,7 +60,7 @@ Este sistema permite la creación, gestión y análisis de encuestas para optimi
    Si estás utilizando Git, clona el repositorio a tu máquina local:
 
 ```bash
-git clone  https://github.com/DanielChavezV/Parcial_Programacion_I.git
+git clone  https://github.com/DanielChavezV/PARCIAL-FINAL-PROG.git
 ```
 
 
