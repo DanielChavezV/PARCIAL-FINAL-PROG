@@ -1,0 +1,18 @@
+# Manejo de datos y archivos CSV
+pandas==1.5.3
+
+# Exportación de informes a PDF
+reportlab==3.6.12
+
+# Estadísticas y análisis de datos
+numpy==1.24.3
+scipy==1.11.2
+
+# Gráficos para informes
+matplotlib==3.8.1
+seaborn==0.12.2
+
+# Envío de correos electrónicos
+smtplib (incluido en la biblioteca estándar de Python)
+email (incluido en la biblioteca estándar de Python)
+
